@@ -45,4 +45,6 @@ public class Articolo {
     public void setNumeroPezziDisponibili(int numeroPezziDisponibili) {
         this.numeroPezziDisponibili = numeroPezziDisponibili;
     }
+
+
 }
